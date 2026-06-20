@@ -2,7 +2,7 @@
 
 A modern, fast personal portfolio website showcasing my work, skills, and experience.
 
-**Live Demo:** [deployed link](portfolio-6abci3bfv-f240806-2333s-projects.vercel.app)
+**Live Demo:** [deployed link](https://vercel.com/f240806-2333s-projects/portfolio/9ivYHA9JQcHX3ZVMbDaiVfezXeFq)
 
 ---
 
@@ -24,6 +24,6 @@ This project is open source and available under the [MIT License](LICENSE).
 ## Contact
 
 **Your Name**
-- Portfolio: [https://portfolio-umber-two-k7kihba6s5.vercel.app/](#)
-- LinkedIn: [https://www.linkedin.com/in/wajeehasajid/](#)
+- Portfolio: [Porfolio Link](https://portfolio-umber-two-k7kihba6s5.vercel.app/)
+- LinkedIn: [LinkedIn Link](https://www.linkedin.com/in/wajeehasajid/)
 - Email: wajeehasajid622@gmail.com
