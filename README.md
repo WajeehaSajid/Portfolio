@@ -2,7 +2,7 @@
 
 A modern, fast personal portfolio website showcasing my work, skills, and experience.
 
-**Live Demo:** [deployed link](https://vercel.com/f240806-2333s-projects/portfolio/9ivYHA9JQcHX3ZVMbDaiVfezXeFq)
+**Live Demo:** [deployed link](https://portfolio-umber-two-k7kihba6s5.vercel.app/)
 
 ---
 
