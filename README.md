@@ -2,7 +2,7 @@
 
 A modern, fast personal portfolio website showcasing my work, skills, and experience.
 
-**Live Demo:** [portfolio-6abci3bfv-f240806-2333s-projects.vercel.app](#)
+**Live Demo:** [deployed link](portfolio-6abci3bfv-f240806-2333s-projects.vercel.app)
 
 ---
 
